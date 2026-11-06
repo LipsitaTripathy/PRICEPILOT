@@ -1,0 +1,40 @@
+Feature,Coefficient
+categorical__Store ID_S001,-1.8487090142466134
+categorical__Store ID_S002,2.1218426987158745
+categorical__Store ID_S003,1.8440678681976028
+categorical__Store ID_S004,-4.890857452431868
+categorical__Store ID_S005,2.7736558997657195
+categorical__Product ID_P0001,7.420171890082282
+categorical__Product ID_P0002,10.411496795569908
+categorical__Product ID_P0003,-1.327398351037527
+categorical__Product ID_P0004,12.731764546531974
+categorical__Product ID_P0005,2.7434168676840693
+categorical__Product ID_P0006,5.732625954391229
+categorical__Product ID_P0007,10.018590571428623
+categorical__Product ID_P0008,3.4097403826480854
+categorical__Product ID_P0009,13.421523821293361
+categorical__Product ID_P0010,6.655418562447688
+categorical__Product ID_P0011,-7.529209544607905
+categorical__Product ID_P0012,-15.061863556906932
+categorical__Product ID_P0013,12.085406007210112
+categorical__Product ID_P0014,-14.021448876587955
+categorical__Product ID_P0015,-2.34691975578141
+categorical__Product ID_P0016,-3.7725222905600293
+categorical__Product ID_P0017,-9.34754402595563
+categorical__Product ID_P0018,-3.3545566264132884
+categorical__Product ID_P0019,-6.23245109116005
+categorical__Product ID_P0020,-21.636241280276646
+categorical__Seasonality_Autumn,1.2037019754072344
+categorical__Seasonality_Spring,-7.37361997892353
+categorical__Seasonality_Summer,8.020759098554382
+categorical__Seasonality_Winter,-1.850841095038072
+categorical__Weather Condition_Cloudy,2.8773067647836315
+categorical__Weather Condition_Rainy,-8.240976864629074
+categorical__Weather Condition_Snowy,-7.562323563913833
+categorical__Weather Condition_Sunny,12.925993663758984
+numerical__Competitor Pricing,0.010451881919284738
+numerical__Discount,0.10271200761868961
+numerical__Promotion,27.438172431724286
+numerical__Inventory Level,0.022079226001817286
+numerical__Time_Index,-0.00545462854231376
+numerical__Price,0.08228601320001067
